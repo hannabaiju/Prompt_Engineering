@@ -7,10 +7,10 @@ Assignment on Prompt Engineering
      
    - &           4.Ethics and Limitations Discussions
 
-2. `2.PROMPT DESIGN AND EXPERIMENTATION`
+2.`2.PROMPT DESIGN AND EXPERIMENTATION`
    
 
-   - It contains 2.Prompt Design and Experimentation
+- It contains 2.Prompt Design and Experimentation
    
 4. `3.CASE STUDY`
    
