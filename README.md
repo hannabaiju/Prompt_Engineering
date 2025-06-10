@@ -17,7 +17,7 @@ Assignment on Prompt Engineering
   - It contains 3.Case Study/Mini Project
 6. screenshot folder
    
-   - It contains screenshots of
+- It contains screenshots of
      -             2.Prompt Design and Experimentation
      -             3.Case Study/Mini Project
    
