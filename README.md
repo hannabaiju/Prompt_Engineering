@@ -7,10 +7,15 @@ Assignment on Prompt Engineering
    -&           4.Ethics and Limitations Discussions
 
 2. `2.PROMPT DESIGN AND EXPERIMENTATION`
+
    -It contains 2.Prompt Design and Experimentation
-3. `3.CASE STUDY`
+   
+4. `3.CASE STUDY`
+   
    -It contains 3.Case Study/Mini Project
-5. screenshot folder
+6. screenshot folder
+   
    -it contains screenshots of
                 2.Prompt Design and Experimentation
                 3.3.Case Study/Mini Project
+   
