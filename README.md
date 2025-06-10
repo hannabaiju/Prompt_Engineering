@@ -8,6 +8,7 @@ Assignment on Prompt Engineering
    - &           4.Ethics and Limitations Discussions
 
 2. `2.PROMPT DESIGN AND EXPERIMENTATION`
+   
 
    - It contains 2.Prompt Design and Experimentation
    
@@ -17,6 +18,6 @@ Assignment on Prompt Engineering
 6. screenshot folder
    
    - It contains screenshots of
-   -              2.Prompt Design and Experimentation
-   -              3.Case Study/Mini Project
+     -             2.Prompt Design and Experimentation
+     -             3.Case Study/Mini Project
    
