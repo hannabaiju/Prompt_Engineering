@@ -13,7 +13,7 @@ Assignment on Prompt Engineering
    
 4. `3.CASE STUDY`
    
-   - It contains 3.Case Study/Mini Project
+  - It contains 3.Case Study/Mini Project
 6. screenshot folder
    
    - It contains screenshots of
